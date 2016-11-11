@@ -9,7 +9,7 @@
 		<version>${build.version}</version>
 		<packaging>jar</packaging>
 
-		<name>Title_Validation</name>
+		<name>Miltiple_Title_Validation</name>
 		<url>http://maven.apache.org</url>
 
 		<properties>
